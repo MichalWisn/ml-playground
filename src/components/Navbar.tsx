@@ -18,8 +18,8 @@ const AppNavbar = () => (
           <LinkContainer to="/">
             <Nav.Link>Home</Nav.Link>
           </LinkContainer>
-          <LinkContainer to="/test">
-            <Nav.Link>Test</Nav.Link>
+          <LinkContainer to="/handpose">
+            <Nav.Link>Handpose tracking</Nav.Link>
           </LinkContainer>
           <NavDropdown title="Dropdown" id="basic-nav-dropdown">
             <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
